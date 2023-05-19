@@ -1,0 +1,76 @@
+﻿body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: hidden;
+    width: 810px;
+    margin: auto;
+    
+}
+
+#entirediv {
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: gray;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 10px;
+}
+.image {
+    display: inline-block;
+    width: 750px;
+    padding: 10px;
+}
+.heading1 {
+    display: inline-block;
+    color: dodgerblue;
+}
+.heading2{
+    display: inline-block;
+    color:  red;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+.divhead {
+    border: 0.5px solid gray;
+    font-weight: bold;
+    background-color: lightskyblue;
+    font-size: 20px;
+    float: left;
+    margin-bottom:10px;
+    width: 100%;
+}
+
+
+.txtfirstname {
+    margin-right: 15px;
+}
+
+
+.txtdateofbirth{
+    float: left;
+    margin-right: 140px;
+}
+
+.txtgender {
+    width: 20%;
+    float: left;
+}
+
+/*.heading{
+    color: red;
+}*/
+
+.btn {
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 15px;
+    font-size: 18px;
+    background-color: #004a6b;
+    color: white;
+}
+
+.endlbl{
+    font-size:15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
